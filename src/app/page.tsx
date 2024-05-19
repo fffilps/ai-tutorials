@@ -9,7 +9,7 @@ export default function Home() {
         <div className="flex w-3/12">
           <MainSideNavigation />
         </div>
-        <div className="flex w-9/12">
+        <div className="flex w-full">
           <MainTutorialSection />
         </div>
       </div>
